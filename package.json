@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johanalopezsuarez/03-Node-Bases/issues"
   },
-  "homepage": "https://github.com/johanalopezsuarez/03-Node-Bases#readme"
+  "homepage": "https://github.com/johanalopezsuarez/03-Node-Bases#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
