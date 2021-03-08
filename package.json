@@ -1,0 +1,19 @@
+{
+  "name": "03-node-bases",
+  "version": "0.0.1",
+  "description": "Aplicacion de linea de comandos para multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanalopezsuarez/03-Node-Bases.git"
+  },
+  "author": "Johana Lopez Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanalopezsuarez/03-Node-Bases/issues"
+  },
+  "homepage": "https://github.com/johanalopezsuarez/03-Node-Bases#readme"
+}
